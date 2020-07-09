@@ -1,0 +1,3 @@
+this file was added in feature2 br
+
+another line
